@@ -1,7 +1,7 @@
 import pandas as pd
 from datetime import datetime
 
-#Case Infomaz - Rômulo Augusto Teixeira
+#Case Infomaz - Rômulo A. T.
 
 # Carregar a base de dados
 file_path = '../data/Case_Infomaz_Base_de_Dados.xlsx'
