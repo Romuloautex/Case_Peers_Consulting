@@ -4,7 +4,7 @@ Projeto desenvolvido para a dinâmica da Peers Consulting, analisando vendas, cl
 
 **Objetivo**: Identificar produtos/categorias mais rentáveis e sugerir estratégias de estoque e precificação.
 
-## 🔍 Métricas Principais
+## Métricas Principais
 1. Calcule o valor total de venda dos produtos por categoria. Utilize as tabelas CADASTRO_PRODUTOS e TRANSACOES_VENDAS.
 2. Calcule a margem dos produtos subtraindo o valor unitario pelo valor de venda. Utilize as tabelas CADASTRO_ESTOQUE e TRANSACOES_VENDAS.
 3. Calcule um ranking de clientes por quantidade de produtos comprados por mês. Utilize as tabelas CADASTRO_CLIENTES e TRANSACOES_VENDAS.
@@ -16,14 +16,14 @@ Projeto desenvolvido para a dinâmica da Peers Consulting, analisando vendas, cl
 9. Liste produtos comprados por clientes
 10. Ranking de produtos por quantidade de estoque
 
-## 🛠️ Tecnologias Usadas
+## Tecnologias Usadas
 - Python (Pandas)
 - Jupyter Notebook
 
 ## Observações
 - **data/**: Contém `Case_Infomaz_Base_de_Dados.xlsx` (não incluído por confidencialidade).
 
-## 🚀 Melhorias Futuras
+## Melhorias Futuras
 - [ ] Calcular métricas complementares
 - [ ] Integrar API de preços concorrentes
 - [ ] Dashboard Power BI/Streamlit
